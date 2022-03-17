@@ -1,0 +1,15 @@
+body{background: rgb(164, 164, 164)}
+
+#head1 {
+    font-weight: bold; 
+    text-decoration: underline;
+
+}
+
+#head2{
+    font-weight: bold;
+}
+
+#question {
+    text-decoration: underline;
+}
